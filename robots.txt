@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://maofuwen.github.io/sitemap.xml 
+Sitemap: http://xujiaqi.info/sitemap.xml 

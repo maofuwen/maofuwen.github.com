@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://maofuwen.github.io/atom.xml" rel="self"/>
-  <link href="http://maofuwen.github.io/"/>
-  <updated>2015-07-25T23:48:06+08:00</updated>
-  <id>http://maofuwen.github.io/</id>
+  <title><![CDATA[毛夫文的个人博客]]></title>
+  <link href="http://xujiaqi.info/atom.xml" rel="self"/>
+  <link href="http://xujiaqi.info/"/>
+  <updated>2015-07-26T00:01:08+08:00</updated>
+  <id>http://xujiaqi.info/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[毛夫文]]></name>
+    <email><![CDATA[1319081826@qq.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
     <title type="html"><![CDATA[First Blog]]></title>
-    <link href="http://maofuwen.github.io/blog/2015/07/25/first-blog/"/>
+    <link href="http://xujiaqi.info/blog/2015/07/25/first-blog/"/>
     <updated>2015-07-25T23:42:24+08:00</updated>
-    <id>http://maofuwen.github.io/blog/2015/07/25/first-blog</id>
-    <content type="html"><![CDATA[<h2>测试第一篇博客</h2>
+    <id>http://xujiaqi.info/blog/2015/07/25/first-blog</id>
+    <content type="html"><![CDATA[<h3>测试第一篇博客</h3>
+
+<h2>毛夫文</h2>
 ]]></content>
   </entry>
   
