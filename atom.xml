@@ -4,7 +4,7 @@
   <title><![CDATA[毛夫文的个人博客]]></title>
   <link href="http://xujiaqi.info/atom.xml" rel="self"/>
   <link href="http://xujiaqi.info/"/>
-  <updated>2015-07-26T00:01:08+08:00</updated>
+  <updated>2015-07-26T00:06:05+08:00</updated>
   <id>http://xujiaqi.info/</id>
   <author>
     <name><![CDATA[毛夫文]]></name>
@@ -12,16 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[First Blog]]></title>
-    <link href="http://xujiaqi.info/blog/2015/07/25/first-blog/"/>
-    <updated>2015-07-25T23:42:24+08:00</updated>
-    <id>http://xujiaqi.info/blog/2015/07/25/first-blog</id>
-    <content type="html"><![CDATA[<h3>测试第一篇博客</h3>
-
-<h2>毛夫文</h2>
-]]></content>
-  </entry>
   
 </feed>
